@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    margin-bottom: 20px;
+    color:chocolate;
+    size:300rem;
+}
+
+.place {
+    margin-bottom: 30px;
+}
+
+.place-img {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.buttons button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.login-form {
+    display: inline-block;
+    text-align: left;
+}
+
+input {
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    width: 200px;
+}
+
+button {
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+
+#message {
+    margin-top: 15px;
+    font-size: 14px;
+}
+
